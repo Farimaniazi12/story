@@ -1,1 +1,3 @@
-Hell, today is a good day in my life because I finished my first app. 
+
+
+Hell, today is not  a good day in my life because I finished my first app. 
